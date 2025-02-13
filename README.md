@@ -21,8 +21,9 @@ function checkNumber(num) {
     }
 }
 console.log(checkNumber(10));  // Output: "Positive"
-````````````
-`````Ternary Operator
+
+Ternary Operator
+
 const checkNumber = (num) => num > 0 ? "Positive" : num < 0 ? "Negative" : "Zero";
 console.log(checkNumber(-7));  // Output: "Negative"
 ````````````
@@ -39,13 +40,13 @@ console.log(checkNumber(-7));  // Output: "Negative"
 
 
 🛠️ How to Use
-1.Clone this repository:
+-**1.Clone this repository:
 ```
 git clone https://github.com/HasibCoderLab/JavaScript-conditional-and-ternary-operators.git
 ````
 
--2.Open index.html in a browser.
--3.Check the console for outputs.
+-**2.Open index.html in a browser.
+-**3.Check the console for outputs.
 
 
 📜 License
