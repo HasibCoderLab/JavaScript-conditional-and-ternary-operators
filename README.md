@@ -22,18 +22,21 @@ function checkNumber(num) {
 }
 console.log(checkNumber(10));  // Output: "Positive"
 
-Ternary Operator
-
+##Ternary Operator
+``````````````
 const checkNumber = (num) => num > 0 ? "Positive" : num < 0 ? "Negative" : "Zero";
 console.log(checkNumber(-7));  // Output: "Negative"
+````````````
 
 ``````
 
 📂 File Structure
+`````
 /project-root
 │── script.js      # JavaScript logic
 │── index.html     # HTML file to load the script
 │── README.md      # Project documentation
+``````````````
 
 
 🛠️ How to Use
