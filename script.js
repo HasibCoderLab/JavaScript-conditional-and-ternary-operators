@@ -48,7 +48,7 @@ function isLeapYear  (year)  {
 console.log(isLeapYear(2024)); // Output: '2024 is a Leap Year......'
 console.log(isLeapYear(2025)); // Output: '2025 is not a Leap Year......'
 
-//   AKS - Traner 
+//   ASK - Traner 
 
 const leepYear1 =  (year) =>{
     if((year % 4 === 0 && year % 100 !==0 )||
