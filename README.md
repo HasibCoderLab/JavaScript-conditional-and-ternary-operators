@@ -21,14 +21,14 @@ function checkNumber(num) {
     }
 }
 console.log(checkNumber(10));  // Output: "Positive"
-
+````````````
 ##Ternary Operator
 ``````````````
 const checkNumber = (num) => num > 0 ? "Positive" : num < 0 ? "Negative" : "Zero";
 console.log(checkNumber(-7));  // Output: "Negative"
 ````````````
 
-``````
+
 
 📂 File Structure
 `````
@@ -45,8 +45,8 @@ console.log(checkNumber(-7));  // Output: "Negative"
 git clone https://github.com/HasibCoderLab/JavaScript-conditional-and-ternary-operators.git
 ````
 
-2.Open index.html in a browser.
-3.Check the console for outputs.
+-2.Open index.html in a browser.
+-3.Check the console for outputs.
 
 
 📜 License
